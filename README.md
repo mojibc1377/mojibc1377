@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ### AboutMe
 
-📍 Istanbul,Turkey
 Skilled in full-stack development, Databases and Software design.
 Aspiring full stack developer leveraging a skillset in Reactjs and Nodejs and also embarking on an exciting journy to master Nextjs.
 with a background in data science using Python , I offer a unique blend of analytical and creative thinking .
