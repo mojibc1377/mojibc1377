@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Mojtaba Bagheri Chenari
 
-## About Me
 
-Hi there! I'm Mojtaba, a data scientist and web developer based in Istanbul, Turkey. Originally from Iran, I hold a Bachelor's degree in Computer Science from Guilan University.
+I'm Mojtaba, a data scientist and web developer based in Istanbul, Turkey. Originally from Iran, I hold a Bachelor's degree in Computer Science from Guilan University.
 
 ### Fields of Expertise
 - **Data Science**
