@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **mojibc1377/mojibc1377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### AboutMe
 
+📍 Istanbul,Turkey
+Skilled in full-stack development, Databases and Software design.
+Aspiring full stack developer leveraging a skillset in Reactjs and Nodejs and also embarking on an exciting journy to master Nextjs.
+with a background in data science using Python , I offer a unique blend of analytical and creative thinking .
 
-I'm Mojtaba, a data scientist and web developer based in Istanbul, Turkey. Originally from Iran, I hold a Bachelor's degree in Computer Science from Guilan University.
+### Education
+🎓 Bachelor's degree in Computer Science from Guilan University
 
-### Fields of Expertise
-- **Data Science**
-- **Web Development (Front and Back)**
-
-### Get in Touch
+### Get in Touch 💬 
 
 - [Gmail](mailto:mojtaba.bagherich@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mojtaba-bagheri-chenari/)
