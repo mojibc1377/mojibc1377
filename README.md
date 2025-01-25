@@ -24,7 +24,7 @@ Aspiring full stack developer leveraging a skillset in Reactjs and Nodejs and al
 ### Get in Touch 💬 
 - [Gmail](mailto:mojtaba.bagherich@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mojtaba-bagheri-chenari/)
-- [Resume](https://portfolio-ashy-one-22.vercel.app/)
+- [Resume]([https://portfolio-ashy-one-22.vercel.app/](https://portfolio-mojtabas-projects-18e390e0.vercel.app/))
 
 ### Fun Facts
 When I'm not busy crunching numbers or crafting web solutions, you can find me pretending to debug while actually Googling solutions like a pro. Yes, I too have Stack Overflow on speed dial.
