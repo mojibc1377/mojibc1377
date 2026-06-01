@@ -20,6 +20,9 @@ Aspiring full stack developer leveraging a skillset in Reactjs and Nodejs and al
 
 ### Education
 🎓 Bachelor's degree in Computer Science from Guilan University
+### 📊Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ### Get in Touch 💬 
 - [Gmail](mailto:mojtaba.bagherich@gmail.com)
