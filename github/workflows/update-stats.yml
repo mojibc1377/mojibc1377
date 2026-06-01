@@ -17,3 +17,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: 'stats/languages.svg' # مسیر ذخیره فایل عکس
+permissions:
+  contents: write
