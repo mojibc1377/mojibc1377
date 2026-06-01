@@ -20,7 +20,6 @@ Aspiring full stack developer leveraging a skillset in Reactjs and Nodejs and al
 
 ### Education
 🎓 Bachelor's degree in Computer Science from Guilan University
-### 📊Languages:
 
 [![](https://raw.githubusercontent.com/mojibc1377/github-stats/master/generated/languages.svg)](...)
 
